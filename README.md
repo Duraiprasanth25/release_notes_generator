@@ -1,14 +1,14 @@
 # Release Notes Generator
-This project is a GitHub-powered Release Notes Generator built with LangChain GitHub Toolkit and LangGraph.
-It automatically collects merged pull requests from a repository, categorizes them, and generates clean, Markdown-formatted release notes.
+- This project is a GitHub-powered Release Notes Generator built with LangChain GitHub Toolkit and LangGraph.
+- It automatically collects merged pull requests from a repository, categorizes them, and generates clean, Markdown-formatted release notes.
 
 # ~> Features
-Fetches merged PRs from a GitHub repository
-Categorizes changes (Features, Fixes, Docs, Refactors, etc.)
-Generates Markdown release notes in a clean format
-Runs as a simple Python script
+- Fetches merged PRs from a GitHub repository
+- Categorizes changes (Features, Fixes, Docs, Refactors, etc.)
+- Generates Markdown release notes in a clean format
+- Runs as a simple Python script
 
 # 🛠️ Tech Stack
-Python 3.10+
-LangChain GitHub Toolkit
-LangGraph
+- Python 3.10+
+- LangChain GitHub Toolkit
+- LangGraph
